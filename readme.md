@@ -54,11 +54,11 @@ Passionate Software Developer
       <br>TypeScript
     </td>
     <td align="center" width="88">
-        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
+        <img src="./images/vue.png" alt="Vue" width="44" height="44"/>
       <br>Vue.js
     </td>
     <td align="center" width="88">
-        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
+        <img src="./images/nuxt.svg" alt="Nuxt.js" width="44" height="44"/>
       <br>Nuxt.js
     </td>
 <!--         <td align="center" width="88">
